@@ -5,16 +5,29 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+[Project 2 Title](http://example.com/)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/R-white?logo=R)](#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+[![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)
+
+[![](https://img.shields.io/badge/NumPy-black?logo=NumPy)](#)
+[![](https://img.shields.io/badge/Pandas-grey?logo=Pandas)](#)
+[![](https://img.shields.io/badge/MongoDB-white?logo=MongoDB)](#)
+[![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
+[![](https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL)](#)
 
 ---
 
