@@ -8,8 +8,8 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
 [![](https://img.shields.io/badge/NumPy-white?logo=NumPy)](#)
 [![](https://img.shields.io/badge/statsmodels-white?logo=statsmodels)](#)
