@@ -8,7 +8,11 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
+[![](https://img.shields.io/badge/NumPy-white?logo=NumPy)](#)
+[![](https://img.shields.io/badge/statsmodels-white?logo=statsmodels)](#)
 
 ---
 
@@ -16,19 +20,19 @@
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[![](https://img.shields.io/badge/R-white?logo=R)](#) 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)](#)
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
+<!--
 [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
 [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)
-
+[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 [![](https://img.shields.io/badge/NumPy-black?logo=NumPy)](#)
 [![](https://img.shields.io/badge/Pandas-grey?logo=Pandas)](#)
 [![](https://img.shields.io/badge/MongoDB-white?logo=MongoDB)](#)
 [![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
 [![](https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL)](#)
-
+-->
 ---
 
 ### Category Name 2
@@ -41,9 +45,5 @@
 
 ---
 
-
-
-
----
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
