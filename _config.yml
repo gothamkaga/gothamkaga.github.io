@@ -2,17 +2,13 @@ title: Edison Zhao # your name (or website title) here
 logo: "/images/IMG_0712.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  A dedicated undergraduate computer science student at Oregon State University with a keen interest in leveraging data to tackle intricate problems aspires to pursue a career as a data scientist to address complex data-driven challenges.
+  A dedicated analyst with a keen interest in leveraging data to tackle intricate problems aspires to pursue a career as a data scientist to address complex data-driven challenges.
   <br><br>
-  B.Sc in Computer Science @Oregon State University
-  <br>
-  B.Sc in Quantitative Economics @CUNY Queens College
+  B.Sc in Quantitative Economics at CUNY Queens College.
   <br><br>
   <a href="https://www.linkedin.com/in/edison-z-91048960/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme 
+theme: jekyll-theme-minimal
 
 colors:
   crimson: '#900C3F'
