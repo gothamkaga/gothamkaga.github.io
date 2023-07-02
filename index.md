@@ -1,10 +1,10 @@
-## Selected Projects in Data Science, Data Analyst and Machine Learning
+## Selected Projects in Data Science, Data Analytics and Machine Learning
 
 ---
 
 ### Stock Price Prediction with Keras and scikit-learn
 
-Introduction +++
+This project involved the application of a comprehensive multivariate analysis, followed by the development of a predictive model using Keras and Scikit-Learn. The model was designed to forecasts of stock prices. To ensure the model's reliability, cross-validation techniques were utilized. The effectiveness of the model was assessed through metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2).
 
 <!--
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,13 +17,13 @@ Introduction +++
 [![Static Badge](https://img.shields.io/badge/Keras-white?logo=Keras&logoColor=%23D00000)](#)
 [![Static Badge](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#)
 
-[View Code on Google Colab](https://colab.research.google.com/drive/1S_tDqT5UlXz75-UvG3wmDqLbQnRRHfzd?usp=sharing)
+<!--[View Code on Google Colab](https://colab.research.google.com/drive/1S_tDqT5UlXz75-UvG3wmDqLbQnRRHfzd?usp=sharing) -->
 
 ---
 
 ### The Linkage: Inflation, Unemployment, Poverty, Income Inequality and Property Crime
 
-This paper examines the relationship between property crime and macroeconomic and socioeconomic conditions. The property crime data is from the Federal Bureau of Investigation’s annual Uniform Crime Report (UCR) and includes non-violent crimes such as burglary, larceny-theft, and motor vehicle theft. The explanatory data measuring macroeconomic and socioeconomic conditions are from various sources covering the period 2000 through 2018 for 50 states and the District of Columbia. This paper applies a state fixed effect model for regression analysis, and each category of property crime is being examined respectively. Based on the regression results, the paper suggests that increases in inflation, unemployment and poverty are associated with increased aggregate property crime. In opposition, income inequality is negatively related to property crime.
+This paper investigates the correlation between property crime and macroeconomic as well as socioeconomic factors. Employing a state fixed effect model for regression analysis, each category of property crime is examined individually. The findings indicate that increases in inflation, unemployment and poverty are associated with increased aggregate property crime. In opposition, income inequality is negatively related to property crime.
 
 <!--
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -39,9 +39,24 @@ View Code on Github
 
 ---
 
+### Data Visualization: Price Correlation of Cryptocurrency
+The exploration and visualization of cryptocurrency data were carried out using Plotly. Data wrangling techniques were employed to clean and preprocess the data, enabling a thorough analysis of the cryptocurrency market and providing valuable insights into the behavior and dynamics of different cryptocurrencies.
+
+[![Static Badge](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![Static Badge](https://img.shields.io/badge/Google_Colab-white?logo=googlecolab&logoColor=%23F9AB00)](#)
+[![Static Badge](https://img.shields.io/badge/Plotly-white?logo=plotly&logoColor=%233F4F75)](#)
+[![Static Badge](https://img.shields.io/badge/Kaggle-white?logo=kaggle&logoColor=%2320BEFF)](#)
+[![Static Badge](https://img.shields.io/badge/Bitcoin-white?logo=bitcoin&logoColor=%23F7931A)](#)
+[![Static Badge](https://img.shields.io/badge/Ethereum-white?logo=ethereum&logoColor=%233C3C3D)](#)
+[![Static Badge](https://img.shields.io/badge/Tether-white?logo=tether&logoColor=%2350AF95)](#)
+
+<!-- [View Code on Google Colab](https://colab.research.google.com/drive/1Yv9N88-aDoXEK7dGK0eaEymeNLg3W1TZ?usp=sharing) -->
+
+---
+
 ### Hospital Readmisson Prediction
 
-Introduction +++
+The clinical data of diabetes patients from 1999-2008 at 130 US hospitals and integrated delivery networks was extensively explored and analyzed. Logistic regression models and machine learning techniques were applied to the dataset to predict hospital readmission within 30 days. The performance of the models was evaluated using an ROC curve plot, providing insights into the accuracy and effectiveness of the predictive models in identifying patients at risk of readmission.
 
 <!--
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -54,6 +69,20 @@ Introduction +++
 [![Static Badge](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#)
 
 [View Code on Google Colab](https://colab.research.google.com/drive/1Yv9N88-aDoXEK7dGK0eaEymeNLg3W1TZ?usp=sharing)
+
+---
+
+### Quantitative Research with RStudio
+
+The relationships between Blood Pressure and Body Mass Index (BMI) as well as Weight were investigated using datasets from the Centers for Disease Control and Prevention (CDC). An empirical model was formulated, incorporating six variables. The Ordinary Least Squares (OLS) algorithm and the Linear Probability Model (LPM) were applied to the data. Multivariable analysis and dummy variable analysis were conducted to further analyze the relationships. Additionally, a linear hypothesis test was performed to evaluate the significance of the variables in the model.
+
+<!--
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+-->
+
+[![Static Badge](https://img.shields.io/badge/RStudio-white?logo=rstudio&logoColor=%2375AADB)](#)
+
+View Code on GitHub
 
 <!--
 
