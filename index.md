@@ -25,9 +25,7 @@ This project involved the application of a comprehensive multivariate analysis, 
 
 This paper investigates the correlation between property crime and macroeconomic as well as socioeconomic factors. Employing a state fixed effect model for regression analysis, each category of property crime is examined individually. The findings indicate that increases in inflation, unemployment and poverty are associated with increased aggregate property crime. In opposition, income inequality is negatively related to property crime.
 
-<!--
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
--->
+<img src="images/Linkage.png?raw=true"/>
 
 [![Static Badge](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![Static Badge](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
@@ -58,9 +56,7 @@ The exploration and visualization of cryptocurrency data were carried out using 
 
 The clinical data of diabetes patients from 1999-2008 at 130 US hospitals and integrated delivery networks was extensively explored and analyzed. Logistic regression models and machine learning techniques were applied to the dataset to predict hospital readmission within 30 days. The performance of the models was evaluated using an ROC curve plot, providing insights into the accuracy and effectiveness of the predictive models in identifying patients at risk of readmission.
 
-<!--
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
--->
+<img src="images/HPR.png?raw=true"/>
 
 [![Static Badge](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![Static Badge](https://img.shields.io/badge/Google_Colab-white?logo=googlecolab&logoColor=%23F9AB00)](#)
