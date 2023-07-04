@@ -4,7 +4,7 @@
 
 ### Stock Price Prediction with Keras and scikit-learn
 
-This project involved the application of a comprehensive multivariate analysis, followed by the development of a predictive model using Keras and Scikit-Learn. The model was designed to forecasts of stock prices. To ensure the model's reliability, cross-validation techniques were utilized. The effectiveness of the model was assessed through metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2).
+This project involved the application of multivariate analysis, followed by the development of a predictive model using Keras and Scikit-Learn. The model was designed to forecasts of stock prices. To ensure the model's reliability, cross-validation techniques were utilized. The effectiveness of the model was assessed through metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2).
 
 <!--
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -78,19 +78,16 @@ The relationships between Blood Pressure and Body Mass Index (BMI) as well as We
 
 <!--View Code on GitHub-->
 
+---
+
+## Certification Programs
+
+- **Google:** Data Analytics Professional Certificate (WIP)
+- **Georgia Institute of Technology:** CS1301x Computing in Python
+- **Bloomberg:** Bloomberg Market Concept
+- **LaGuardia Community College:** Data Analytics in Python
+
 <!--
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 [![](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)](#)
 [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
