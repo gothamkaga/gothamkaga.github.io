@@ -17,7 +17,7 @@ This project involved the application of a comprehensive multivariate analysis, 
 [![Static Badge](https://img.shields.io/badge/Keras-white?logo=Keras&logoColor=%23D00000)](#)
 [![Static Badge](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#)
 
-<!--[View Code on Google Colab](https://colab.research.google.com/drive/1S_tDqT5UlXz75-UvG3wmDqLbQnRRHfzd?usp=sharing) -->
+[View Code on Google Colab](https://colab.research.google.com/drive/1S_tDqT5UlXz75-UvG3wmDqLbQnRRHfzd?usp=sharing)
 
 ---
 
@@ -48,7 +48,7 @@ The exploration and visualization of cryptocurrency data were carried out using 
 [![Static Badge](https://img.shields.io/badge/Ethereum-white?logo=ethereum&logoColor=%233C3C3D)](#)
 [![Static Badge](https://img.shields.io/badge/Tether-white?logo=tether&logoColor=%2350AF95)](#)
 
-<!-- [View Code on Google Colab](https://colab.research.google.com/drive/1Yv9N88-aDoXEK7dGK0eaEymeNLg3W1TZ?usp=sharing) -->
+[View Code on Google Colab](https://colab.research.google.com/drive/1wvX2EzfEBh-F8JdtV_NB-gMHziOyWWLA?usp=sharing)
 
 ---
 
