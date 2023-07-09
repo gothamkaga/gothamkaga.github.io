@@ -23,7 +23,7 @@ This project involved the application of multivariate analysis, followed by the 
 
 ### The Linkage: Inflation, Unemployment, Poverty, Income Inequality and Property Crime
 
-This paper investigates the correlation between property crime and macroeconomic as well as socioeconomic factors. Employing a state fixed effect model for regression analysis, each category of property crime is examined individually. The findings indicate that increases in inflation, unemployment and poverty are associated with increased aggregate property crime. In opposition, income inequality is negatively related to property crime.
+Conducted thorough data analysis to investigate the relationship between property crime and macroeconomic as well as socioeconomic factors. Implemented state fixed effect models and employed econometric techniques to develop, test, and enhance the accuracy of the regression models. Leveraged Python to perform statistical tests and regression analysis on time series and panel data, ensuring robust results. The findings indicate that increases in inflation, unemployment and poverty are associated with increased aggregate property crime. In opposition, income inequality is negatively related to property crime.
 
 <img src="images/Linkage.png?raw=true"/>
 
@@ -56,7 +56,7 @@ The exploration and visualization of cryptocurrency data were carried out using 
 
 ### Hospital Readmisson Prediction
 
-The clinical data of diabetes patients from 1999-2008 at 130 US hospitals and integrated delivery networks was extensively explored and analyzed. Logistic regression models and machine learning techniques were applied to the dataset to predict hospital readmission within 30 days. The performance of the models was evaluated using an ROC curve plot, providing insights into the accuracy and effectiveness of the predictive models in identifying patients at risk of readmission.
+Extensively explored an analyzed the clinical data of diabetes patients from 1999-2008 at 130 US hospitals and integrated delivery networks. Applied logistic regression models and machine learning techniques to predict hospital readmission within a 30-days period. The performance of the models was evaluated using a ROC curve plot, enabling an assessment of the accuracy and effectiveness in identifying patients at risk of readmission. This analysis provides valuable insights for healthcare professionals in managing and mitigating readmission risks for diabetic patients.
 
 <img src="images/HPR.png?raw=true"/>
 
@@ -72,7 +72,7 @@ The clinical data of diabetes patients from 1999-2008 at 130 US hospitals and in
 
 ### Quantitative Research with RStudio
 
-The relationships between Blood Pressure and Body Mass Index (BMI) as well as Weight were investigated using datasets from the Centers for Disease Control and Prevention (CDC). An empirical model was formulated, incorporating six variables. The Ordinary Least Squares (OLS) algorithm and the Linear Probability Model (LPM) were applied to the data. Multivariable analysis and dummy variable analysis were conducted to further analyze the relationships. Additionally, a linear hypothesis test was performed to evaluate the significance of the variables in the model.
+Analyzed the relationships between Blood Pressure and Body Mass Index (BMI) and Weight, utilizing datasets sourced from the Centers for Disease Control and Prevention (CDC). Formulated an empirical model that encompassed six variables to capture the dynamics of the relationship. Employed the Ordinary Least Squares (OLS) algorithm and the Linear Probability Model (LPM) to analyze the data. Conducted multivariable analysis and dummy variable analysis to gain further insights into the relationships. Additionally, a linear hypothesis test was performed to evaluate the significance of the variables in the model.
 
 [![Static Badge](https://img.shields.io/badge/RStudio-white?logo=rstudio&logoColor=%2375AADB)](#)
 
@@ -80,10 +80,10 @@ The relationships between Blood Pressure and Body Mass Index (BMI) as well as We
 
 ---
 
-## Certification Programs
+## Certificate Programs
 
 - **Google:** Data Analytics Professional Certificate (WIP)
-- **Georgia Institute of Technology:** CS1301x Computing in Python
+- **Georgia Institute of Technology:** CS1301x Introduction to Python Programming
 - **Bloomberg:** Bloomberg Market Concept
 - **LaGuardia Community College:** Data Analytics in Python
 
