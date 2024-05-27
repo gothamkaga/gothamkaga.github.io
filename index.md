@@ -1,4 +1,4 @@
-## Selected Projects in Data Science, Data Analytics and Machine Learning
+## Selected Projects in Machine Learning, Data Science, and Data Analytics
 
 ---
 
@@ -82,7 +82,6 @@ Analyzed the relationships between Blood Pressure and Body Mass Index (BMI) and 
 
 ## Certificate Programs
 
-- **Google:** Data Analytics Professional Certificate (WIP)
 - **Georgia Institute of Technology:** CS1301x Introduction to Python Programming
 - **Bloomberg:** Bloomberg Market Concept
 - **LaGuardia Community College:** Data Analytics in Python
